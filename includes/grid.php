@@ -218,8 +218,8 @@
 
 </style>
 
-<a href="#load-more" style="text-decoration:none;"><button class="buttons" id="load-btn">More</button></a>
-<a href="#" style="text-decoration:none;"><button class="buttons" id="unload-btn">Less</button></a>
+<!-- <a href="#load-more" style="text-decoration:none;"><button class="buttons" id="load-btn">More</button></a> -->
+<!-- <a href="#" style="text-decoration:none;"><button class="buttons" id="unload-btn">Less</button></a> -->
     
 <div class="container"> <!--container GRID-->
     <div class="item1"><img src="images/profile.jpg" class="grid-images one"/>
