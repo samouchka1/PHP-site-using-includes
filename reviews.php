@@ -10,6 +10,8 @@
 
     <?php include 'includes/background.php'; ?>
 
+    <?php include 'includes/title.php'; ?>
+
     <?php include 'includes/navbar.php'; ?>
 
     <?php include 'includes/grid.php'; ?>

@@ -9,6 +9,8 @@
 <body>
 
     <?php include 'includes/background.php'; ?>
+    
+    <?php include 'includes/title.php'; ?>
 
     <?php include 'includes/navbar.php'; ?>
 
